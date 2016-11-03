@@ -2,7 +2,7 @@ Package.describe({
   name: 'fauphi:autoform-base64-img',
   git: 'https://github.com/Fauphi/autoform-base64-img',
   summary: 'Autoform Base64 image upload.',
-  version: '0.1.0'
+  version: '0.1.1'
 });
 
 Package.onUse(function (api) {
