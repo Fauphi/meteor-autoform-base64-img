@@ -9,7 +9,7 @@ Base64 image type for Meteor-Autoform.
 
 #### Install
 ```
-meteor add fauphi:meteor-autoform-base64-img
+meteor add fauphi:autoform-base64-img
 ```
 #### Simple Schema
 ```
